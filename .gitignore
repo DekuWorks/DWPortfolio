@@ -1,0 +1,2 @@
+# Ignore the node modules because of their size
+node_modules/
